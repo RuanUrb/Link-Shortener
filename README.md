@@ -38,8 +38,8 @@ $ npm run test:cov
 
 ## API endpoints
 
-POST to / expects a {"url": "<url>"} body and returns as response your shortened URL
+POST to / expects a {"url": "[url]"} body and returns as response your shortened URL
 
-GET to /<shortenedUrl> will redirect you to original URL
+GET to /[shortenedUrl] will redirect you to original URL
 
 
