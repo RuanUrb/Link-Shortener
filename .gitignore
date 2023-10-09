@@ -1,6 +1,8 @@
 # compiled output
 /dist
 /node_modules
+requests.http
+db.sqlite
 
 # Logs
 logs
